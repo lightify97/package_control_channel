@@ -1768,8 +1768,9 @@
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
-					"tags": true
+					"sublime_text": ">=3000",
+					"tags": true,
+					"branch": "master"
 				}
 			]
 		},
